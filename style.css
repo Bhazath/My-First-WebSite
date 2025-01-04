@@ -47,7 +47,7 @@ nav                                             /* top padding of the page */
     background-color: rgb(0, 30, 54);
     padding: 6px 13px 6px 13px;
     color: white;
-    border: rgb(19, 25, 119) 1px solid;0............ 
+    border: rgb(19, 25, 119) 1px solid;
     border-radius: 10px;
     /* margin-left: 100px; */
 }
@@ -66,7 +66,7 @@ nav                                             /* top padding of the page */
     top: 200px;
 }
 
-.my-banner-content h1                           /*  Banner contant*/
+.my-banner-content h1                           /*  Banner contant */
 {
     font-size: 50px;
 }
