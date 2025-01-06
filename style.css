@@ -25,7 +25,7 @@ nav                                             /* top padding of the page */
 .banner                                         /* banner class */
 {
     height: 1000px; 
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://cdn.pixabay.com/photo/2023/04/29/16/10/ai-generated-7958874_1280.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("./img/Server.webp");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -44,7 +44,7 @@ nav                                             /* top padding of the page */
 
 .btn
 {
-    background-color: #486670;
+    background-color: rgb(31, 32, 41);
     padding: 6px 13px 6px 13px;
     color: white;
     border: rgb(19, 25, 119) 1px solid;
@@ -54,8 +54,8 @@ nav                                             /* top padding of the page */
 
 .btn:hover                                      /* Pseudo-classes*/
 {
-    background-color: rgb(7, 30, 85);
-    /* background-color: transparent; */
+    /* background-color: rgb(7, 30, 85); */
+    background-color: transparent;
 }
 
 .my-banner-content                              /* banner contant class */
@@ -153,7 +153,7 @@ nav                                             /* top padding of the page */
 .cta
 {
     height: 250px;
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://cdn.pixabay.com/photo/2023/12/15/14/49/city-8450817_640.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://media.istockphoto.com/id/1425269537/vector/5g-or-6g-dot-line-mobile-technology-wireless-data-network-and-connection-technology-concept.jpg?s=612x612&w=0&k=20&c=kemPQr-tD0aaOy84JMoLs5PVWYUH88IORH-32XP0NM0=");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
