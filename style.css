@@ -153,7 +153,7 @@ nav                                             /* top padding of the page */
 .cta
 {
     height: 250px;
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://media.istockphoto.com/id/1425269537/vector/5g-or-6g-dot-line-mobile-technology-wireless-data-network-and-connection-technology-concept.jpg?s=612x612&w=0&k=20&c=kemPQr-tD0aaOy84JMoLs5PVWYUH88IORH-32XP0NM0=");
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("./img/End-Banner.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
